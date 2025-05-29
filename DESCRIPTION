@@ -1,0 +1,20 @@
+Package: WinRS
+Type: Package
+Title: Estimation and Inference for Win Ratio for Two Hierarchical Endpoints Subject to Censoring and Missingness
+Version: 1.0
+Author@R: c(
+      person("Yi", "Liu", email = "yi.iu.biostat@gmail.com", role = c("aut", "cre"), 
+			comment = c(ORCID = "0000-0002-0935-007X")))
+Maintainer: Yi Liu <yi.liu.biostat@gmail.com>
+Description: The package implements the nonparametric maximum likelihood estimator (NPMLE) for win ratio
+    for two hierarchical endpoints in randomized clinical trials. The first endpoint is a survival endpoint
+    subject to right-censoring, whereas the second endpoint is a non-survival endpoint (e.g., a continuous 
+    quality-of-life or response outcome, measured only once during the study period) subject to missingness. 
+    The covariate adjustment option in the package can adjust for missingness pattern for the second endpoint
+    using a logistic regression based on the input covariates. 
+Imports:
+        survival,
+        dplyr
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
