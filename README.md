@@ -1,5 +1,5 @@
 # WinRS
-`WinRS` is an R package that implements the nonparametric maximum likelihood estimation (NPMLE) of the win ratio (WR) for two hierarchical endpoints. We focus on the setting where the first endpoint is a time-to-event survival outcome subject to right-censoring, and the second is a non-survival endpoint—measured once during the study period (e.g., a continuous quality-of-life or response outcome)—subject to missingness. The NPMLE is based on our proposed S score method, also referred to as the "S score estimator." 
+`WinRS` is an R package that implements the nonparametric maximum likelihood estimation (NPMLE) of the win ratio (WR) for two hierarchical endpoints in a clinical study with a finite time horizon. We focus on the setting where the first endpoint is a terminal time-to-event outcome subject to right-censoring, and the second is a non-survival endpoint—measured only once at the end of study (e.g., a quality-of-life or response outcome)—subject to missingness. The NPMLE is based on our proposed method called "S score" in the paper, also referred to as the "S score estimator." 
 
 ## Installation
 To install the latest version of the R package from GitHub, please run following commands in R:
@@ -96,4 +96,4 @@ $boot.qt.upr
 ```
 
 # Reference
-Please cite this paper: TBA
+Please cite this paper: coming soon... Please reach out the author Yi Liu (yi.liu.biostat@gmail or yliu297@ncsu.edu should you have any questions). 
