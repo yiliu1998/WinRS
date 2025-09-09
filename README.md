@@ -101,4 +101,4 @@ Please cite the following paper:
 TBA... 
 
 ## Contact
-Please reach out the author Yi Liu (yi.liu.biostat@gmail.com if you have any questions). 
+Please reach out to Yi Liu (yi.liu.biostat@gmail.com) if you have any questions for the package. 
