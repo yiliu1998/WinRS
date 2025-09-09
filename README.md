@@ -95,5 +95,10 @@ $boot.qt.upr
 1.537708 
 ```
 
-# Reference
-Please cite this paper: coming soon... Please reach out the author Yi Liu (yi.liu.biostat@gmail or yliu297@ncsu.edu should you have any questions). 
+## Reference
+Please cite the following paper: 
+
+TBA... 
+
+## Contact
+Please reach out the author Yi Liu (yi.liu.biostat@gmail.com if you have any questions). 
